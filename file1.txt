@@ -19,7 +19,11 @@ changews-  buge issue has to be solve
 change- changes in the idwea branch using commi8t
 
 
+
 change --- now the branch is in master
 
 
 change --- now the coflit create in masterrrrrrrrrrrrrrrrrrrrrr
+
+change----conflit is created
+conflict is created at idea
